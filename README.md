@@ -1,10 +1,4 @@
-Perfect 💪 — here’s your **final, copy-and-paste-ready `README.md`**.
-It’s polished, visually engaging, and ready for your GitHub or Job Utshab portfolio.
-
----
-
-```markdown
-# 🛒 Walmart Weekly Sales Forecast
+## 🛒 Walmart Weekly Sales Forecast
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
@@ -79,7 +73,7 @@ retail-sales-forecast/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/walmart-sales-forecast.git
+git clone https://github.com/Shamma-Samiha/walmart-sales-forecast.git
 cd walmart-sales-forecast
 ````
 
@@ -103,15 +97,25 @@ streamlit run app/app.py
 
 ---
 
-## 📸 Screenshots
+---
 
-### 🌐 Streamlit Dashboard
+## 📸 Website View 
 
-![Dashboard Preview](https://via.placeholder.com/1000x500.png?text=Streamlit+App+Screenshot)
+### 🌐 Streamlit Dashboard  
+Here’s how the interactive Walmart Weekly Sales Prediction app looks in action 👇  
 
-### 🧾 PDF Report
+![Dashboard View 1](assets/dashboard%2001.png)
+![Dashboard View 2](assets/Dashboard%2002.png)
+![Dashboard View 3](assets/Dashboard%2003.png)
 
-![Report Preview](https://via.placeholder.com/800x400.png?text=Generated+Walmart+Report)
+---
+
+### 🧾 Generated PDF Report  
+This automatically generated report summarizes key predictions and insights for decision-makers 👇  
+
+![Report Page 1](assets/Report%201.png)
+![Report Page 2](assets/report%202.png)
+
 
 ---
 
