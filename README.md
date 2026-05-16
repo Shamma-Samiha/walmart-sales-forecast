@@ -16,6 +16,7 @@ Built with 💙 **Python, Streamlit, and Machine Learning (Random Forest)**.
 This project analyzes Walmart’s historical sales data and builds a **predictive model** that estimates future weekly sales for each store.  
 It also includes a **Streamlit dashboard** for real-time forecasting and a **branded PDF report generator** for decision-makers.
 
+## Live Demo : https://walmart-sales-forecast.streamlit.app/
 ---
 
 ## 🧠 Key Features
